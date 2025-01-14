@@ -2,7 +2,7 @@
 # Cape Mod 1.8 - 1.21 for Forge and Fabric
 
 Get free capes and exclusive perks for creators!<br>
-https://cosmetics.7games.ga
+https://capemod.com
 
 **Supported Versions:**  
 - **Fabric:** 1.17 - 1.21  
